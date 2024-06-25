@@ -3,7 +3,7 @@
 
 ## 🔧 Technologies & Tools
 - Tools/Products: Docker | Kubernetes | Terraform | Ansible | Git | Jenkins | WSO2-API-M 
-- OS: Ubuntu (Debian-Based) | CentOS (RPM-Based)
+- OS: Ubuntu Server | CentOS | Windows Server
 - Clouds: Azure | AWS
 - Virtualization: VMware | VirtualBox
 - Automation: Bash Script | YAML
