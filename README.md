@@ -9,4 +9,4 @@
 - Automation: Bash Script | YAML
 - Languages: Python | Java
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,kubernetes,jenkins,ansible,terraform,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,kubernetes,jenkins,ansible,terraform,azure,aws,kali)](https://skillicons.dev)
