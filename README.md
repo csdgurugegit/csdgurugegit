@@ -8,3 +8,5 @@
 - Virtualization: VMware | VirtualBox
 - Automation: Bash Script | YAML
 - Languages: Python | Java
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
