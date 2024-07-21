@@ -5,7 +5,7 @@
 - Tools/Products: Docker | Kubernetes | Terraform | Ansible | Git | Jenkins | WSO2-API-M 
 - OS: Ubuntu Server | CentOS | Kali | Windows Server
 - Clouds: Azure | AWS
-- Virtualization: VMware 
+- Virtualization: VMware ESXi | vCenter
 - Automation: Bash Script | YAML
 - Languages: Python | Java 
 
